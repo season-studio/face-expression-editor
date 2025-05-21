@@ -1,12 +1,2 @@
----
-title: Expression Editor
-emoji: 🐨
-colorFrom: indigo
-colorTo: red
-sdk: docker
-pinned: true
-disable_embedding: true
-short_description: Quickly edit the expression of a face
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Extracting the core code from the container of [https://huggingface.co/docs/hub/spaces-config-reference](https://huggingface.co/spaces/fffiloni/expression-editor). So that we can test the function in colab, kaggle, local machine, or any other host. 
+This code need python 3.10.x
